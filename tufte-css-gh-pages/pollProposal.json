@@ -3,5 +3,9 @@
 		"The brief for this project is to create a web app that lets people collect quick, objective and anonymous feedback.\n        The app allows you to easily & intuitively create polls and share them select friends to aid decision making."
 	],
 	"image": "https://cdn.rawgit.com/joshpitzalis/peerplus/c356e160c7d3536e7025c5fc916e2d78916b6d2d/tufte-css-gh-pages/images/flow2.png",
-	"title": "Types of Polls"
+	"title": "Types of Polls",
+	"notes": "This show the three main behaviour paths in the app create and share a poll, complete a poll, collect the results.",
+	"note2": "No text based responses since this is a polling app not a survey app. Text based responses can be introduced at a later stage. ",
+	"image2": "https://cdn.rawgit.com/joshpitzalis/peerplus/02be28df3c36841904a9d2de08533be78775ccbc/tufte-css-gh-pages/images/wireframe.png",
+	"paragraph2": "To use Tufte CSS, copy block:"
 }
