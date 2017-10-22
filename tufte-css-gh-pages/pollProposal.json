@@ -9,5 +9,10 @@
 	"paragraph2": {
 		"image2": "To use Tufte CSS, copy block:"
 	},
-	"paragraph3": "Now you just have to use the provided CSS rules, and the Tufte CSS conventions described in this document. For best\n        results, View Source and Inspect Element frequently."
+	"paragraph3": "Now you just have to use the provided CSS rules, and the Tufte CSS conventions described in this document. For best\n        results, View Source and Inspect Element frequently.",
+	"paragraph4": [
+		"No text based responses because that would change teh natire of teh application from a poll to a survey. Text based\n        responses can be added in the future if we change teh way responses are collected and displayed.\n      ",
+		" As a bonus, this excerpt regarding the use of headings provides an example of block quotes. In Tufte CSS they are just\n        lightly styled, semantically correct HTML using for an example in print."
+	],
+	"image3 ": "img/napoleons-march.png"
 }
