@@ -6,7 +6,7 @@
 	"title": "Types of Polls",
 	"note2": "No text based responses since this is a polling app not a survey app. Text based responses can be introduced at a later stage. ",
 	"image2": [
-		"https://cdn.rawgit.com/joshpitzalis/peerplus/2bd98f3310a8f58a671662d403aa659cfff98db1/tufte-css-gh-pages/images/dashboard.png",
+		"https://cdn.rawgit.com/joshpitzalis/peerplus/350c9bc61357db1fcb2220139a14a37cebb75e30/tufte-css-gh-pages/images/response%20types.png",
 		"img/rhino.png",
 		"tps://cdn.rawgit.com/joshpitzalis/peerplus/02be28df3c36841904a9d2de08533be78775ccbc/tufte-css-gh-pages/images/wireframe.png"
 	],
@@ -23,13 +23,13 @@
 	"bd3654f8-4d88-4b98-8860-57d4caa93aa9": "https://cdn.rawgit.com/joshpitzalis/peerplus/71bfd836b9884ee575dbfe23af5244236642e93b/tufte-css-gh-pages/images/Screen%20Shot%202017-10-22%20at%2016.40.59.png",
 	"fd1b81ae-0d1c-4540-9956-3be0ca776887": "Creating A Poll",
 	"64bab3d5-9c74-43e3-a232-ba00b5598f7c": "When you get sent a poll are either given a url to follow, you get an email invite or a personall message in facebook.\n        If you are new to the platform the link will take you to a sign up page.\n      ",
-	"92e960af-46ef-4c87-8efb-d3d338b4ca21": "img/flowchart.png",
+	"92e960af-46ef-4c87-8efb-d3d338b4ca21": "https://cdn.rawgit.com/joshpitzalis/peerplus/964a872b4b78494df4add1515fa31a981917bb5d/tufte-css-gh-pages/images/Sign%20In-Light.png",
 	"4c06f167-8822-4e80-958f-7d374b82f141": " If you already have an account the platform will log you in automatically and redirect you to teh poll page",
-	"10f9edcf-2bc2-4df2-a245-3d7c2fc817f3": "img/flowchart.png",
+	"10f9edcf-2bc2-4df2-a245-3d7c2fc817f3": "https://cdn.rawgit.com/joshpitzalis/peerplus/40b0a6489f1011a4828f73d07588e68f7840dc8d/tufte-css-gh-pages/images/single%20choice.png",
 	"3b655cfd-5ab8-4537-8c39-2e32ad0c568a": " Completing the polling app will take you to a success page taht lets you know you have successfully completed the poll.\n        This page gives you the option to request the results of teh poll when it is complete. It also encourages you to\n        create a poll f your own.",
-	"21cf174a-457a-431b-85a7-c613c49bc290": "img/flowchart.png",
+	"21cf174a-457a-431b-85a7-c613c49bc290": "https://cdn.rawgit.com/joshpitzalis/peerplus/1c452de4fb82ca1774b8a47cbcd2ac40a1ec0f83/tufte-css-gh-pages/images/Game%20Over-Light.png",
 	"ca4486a9-5241-4507-9365-35120bb9392d": " If someone who was not invited to complete a poll gets a hold of teh poll link then trying to complete the poll will\n        redierect them to an error page taht encourages then to sign up and send out tehir own private polls.",
-	"125daa49-7322-4229-a9dc-f959420636af": "img/flowchart.png",
+	"125daa49-7322-4229-a9dc-f959420636af": "https://cdn.rawgit.com/joshpitzalis/peerplus/6290e379e4490a0690ac1a891fc22cd818acc027/tufte-css-gh-pages/images/sorry.png",
 	"eb8c2eba-2e8f-4a34-851d-83f318001f67": "Collecting responses is as simple as clicking on a poll in your dashboard. You get a clear % breakdown of how many\n        people clicked on what response. You can also see who you sent teh poll to and when teh poll ended, or will end if\n        ongoing. ",
 	"ee490370-5ce5-46ab-8743-3841752bd890": [
 		"If this is the first poll you have created then teh next step will take you to a page where you can select people you\n        want to send the poll to. You will be given unique url for teh poll that you can manually give to people manually,\n        or you can enter email addresses for teh people you want to send to or you can import your contact from facebook\n        and add then select them. You must select a minimum of 10 people for a poll so that the responses stay anonymous.\n      ",
@@ -37,8 +37,9 @@
 		"You can create new circles, add or remove people form a circle or just send polls to people\n      "
 	],
 	"32c2111e-4c9e-477a-a1b0-e5988984abec": [
-		"img/rhino.png",
-		"img/rhino.png"
+		"https://cdn.rawgit.com/joshpitzalis/peerplus/a7738e5b9d613bba114e980c8f53ade6d2ce9bb4/tufte-css-gh-pages/images/Leaderboard-Light%20Copy.png",
+		"https://cdn.rawgit.com/joshpitzalis/peerplus/03bebadd073b1ed0940d806f619791e7689a6e99/tufte-css-gh-pages/images/Quizes-Light%20Copy%202.png"
 	],
-	"8a32e635-3830-443c-8ce3-4a749b22087d": "https://cdn.rawgit.com/joshpitzalis/peerplus/ac3793b86cfa0906633766b23fe0b2a027b8e05f/tufte-css-gh-pages/images/dashboard.png"
+	"8a32e635-3830-443c-8ce3-4a749b22087d": "https://cdn.rawgit.com/joshpitzalis/peerplus/ac3793b86cfa0906633766b23fe0b2a027b8e05f/tufte-css-gh-pages/images/dashboard.png",
+	"671254d4-5b62-452c-8b72-cd66af96339f": " The questions can be text or image based, with singel or multiple responses. Each poll must have a minimum of two responses\n        and a maximum of 4 responses. This limitation focuses the kind of polls people will use the platform for.\n      "
 }
