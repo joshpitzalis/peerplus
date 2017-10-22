@@ -14,5 +14,6 @@
 		"No text based responses because that would change teh natire of teh application from a poll to a survey. Text based\n        responses can be added in the future if we change teh way responses are collected and displayed.\n      ",
 		" As a bonus, this excerpt regarding the use of headings provides an example of block quotes. In Tufte CSS they are just\n        lightly styled, semantically correct HTML using for an example in print."
 	],
-	"image3 ": "img/napoleons-march.png"
+	"image3 ": "https://cdn.rawgit.com/joshpitzalis/peerplus/d1658dff366696a25e3d67b3fefd3bd2a3d82efe/tufte-css-gh-pages/images/responses.png",
+	"paragraph5": " Collecting responses is as simple as clicking on a poll in your dashboard. You get a clear % breakdown of how many\n        people clicked on what response. You can also see who you sent teh poll to and when teh poll ended, or will end if\n        ongoing. "
 }
