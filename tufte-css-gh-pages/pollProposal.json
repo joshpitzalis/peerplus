@@ -5,7 +5,11 @@
 	"image": "https://cdn.rawgit.com/joshpitzalis/peerplus/c356e160c7d3536e7025c5fc916e2d78916b6d2d/tufte-css-gh-pages/images/flow2.png",
 	"title": "Types of Polls",
 	"note2": "No text based responses since this is a polling app not a survey app. Text based responses can be introduced at a later stage. ",
-	"image2": "https://cdn.rawgit.com/joshpitzalis/peerplus/02be28df3c36841904a9d2de08533be78775ccbc/tufte-css-gh-pages/images/wireframe.png",
+	"image2": [
+		"https://cdn.rawgit.com/joshpitzalis/peerplus/02be28df3c36841904a9d2de08533be78775ccbc/tufte-css-gh-pages/images/wireframe.png",
+		"img/rhino.png",
+		"tps://cdn.rawgit.com/joshpitzalis/peerplus/02be28df3c36841904a9d2de08533be78775ccbc/tufte-css-gh-pages/images/wireframe.png"
+	],
 	"paragraph2": {
 		"image2": "To use Tufte CSS, copy block:"
 	},
@@ -26,5 +30,13 @@
 	"21cf174a-457a-431b-85a7-c613c49bc290": "img/flowchart.png",
 	"ca4486a9-5241-4507-9365-35120bb9392d": " If someone who was not invited to complete a poll gets a hold of teh poll link then trying to complete the poll will\n        redierect them to an error page taht encourages then to sign up and send out tehir own private polls.",
 	"125daa49-7322-4229-a9dc-f959420636af": "img/flowchart.png",
-	"eb8c2eba-2e8f-4a34-851d-83f318001f67": "Collecting responses is as simple as clicking on a poll in your dashboard. You get a clear % breakdown of how many\n        people clicked on what response. You can also see who you sent teh poll to and when teh poll ended, or will end if\n        ongoing. "
+	"eb8c2eba-2e8f-4a34-851d-83f318001f67": "Collecting responses is as simple as clicking on a poll in your dashboard. You get a clear % breakdown of how many\n        people clicked on what response. You can also see who you sent teh poll to and when teh poll ended, or will end if\n        ongoing. ",
+	"ee490370-5ce5-46ab-8743-3841752bd890": [
+		"If this is the first poll you have created then teh next step will take you to a page where you can select people you\n        want to send the poll to. You will be given unique url for teh poll that you can manually give to people manually,\n        or you can enter email addresses for teh people you want to send to or you can import your contact from facebook\n        and add then select them. You must select a minimum of 10 people for a poll so that the responses stay anonymous.\n      ",
+		"The first group of people that you send a poll to gets saved as your circle of trust. Rather than having to select\n        all the same people again you can just send another poll to teh same circle.\n      ",
+		"You can create new circles, add or remove people form a circle or just send polls to people\n      "
+	],
+	"32c2111e-4c9e-477a-a1b0-e5988984abec": [
+		"img/rhino.png"
+	]
 }
