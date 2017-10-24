@@ -2,7 +2,13 @@
 	"paragraph": [
 		"The brief for this project is to create a web app that lets people collect quick, objective and anonymous feedback.\n        The app allows you to easily & intuitively create polls and share them select friends to aid decision making."
 	],
-	"image": "https://cdn.rawgit.com/joshpitzalis/peerplus/c356e160c7d3536e7025c5fc916e2d78916b6d2d/tufte-css-gh-pages/images/flow2.png",
+	"image": [
+		"https://cdn.rawgit.com/joshpitzalis/peerplus/853d463a2a78ce80a52e84c37434bb1449ac48bb/tufte-css-gh-pages/images/flowchart.png",
+		"img/flowchart.png",
+		"img/flowchart.png",
+		"img/flowchart.png",
+		"s://cdn.rawgit.com/joshpitzalis/peerplus/c356e160c7d3536e7025c5fc916e2d78916b6d2d/tufte-css-gh-pages/images/flow2.png"
+	],
 	"title": "Types of Polls",
 	"note2": "No text based responses since this is a polling app not a survey app. Text based responses can be introduced at a later stage. ",
 	"image2": [
@@ -42,5 +48,7 @@
 	],
 	"8a32e635-3830-443c-8ce3-4a749b22087d": "https://cdn.rawgit.com/joshpitzalis/peerplus/ac3793b86cfa0906633766b23fe0b2a027b8e05f/tufte-css-gh-pages/images/dashboard.png",
 	"671254d4-5b62-452c-8b72-cd66af96339f": " The questions can be text or image based, with singel or multiple responses. Each poll must have a minimum of two responses\n        and a maximum of 4 responses. This limitation focuses the kind of polls people will use the platform for.\n      ",
-	"d577e8ae-04d1-4631-b21d-1fde3337b2be": "https://cdn.rawgit.com/joshpitzalis/peerplus/5a7dd4981f2dbfe10649f1d6574e26943b555d08/tufte-css-gh-pages/images/luxury.png"
+	"d577e8ae-04d1-4631-b21d-1fde3337b2be": "https://cdn.rawgit.com/joshpitzalis/peerplus/5a7dd4981f2dbfe10649f1d6574e26943b555d08/tufte-css-gh-pages/images/luxury.png",
+	"c9d02931-4f32-4e50-9259-5f76fd00471c": "Overview",
+	"d1c2f734-1a3c-4912-88d7-f238471a15e7": "One of the most distinctive features of Tufte’s style is his extensive use of sidenotes. Sidenotes are like footnotes,\n      except they don’t force the reader to jump their eye to the bottom of the page, but instead display off to the side\n      in the margin. Perhaps you have noticed their use in this document already. You are very astute."
 }
