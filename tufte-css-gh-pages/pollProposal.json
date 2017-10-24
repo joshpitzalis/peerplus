@@ -50,5 +50,7 @@
 	"671254d4-5b62-452c-8b72-cd66af96339f": " The questions can be text or image based, with singel or multiple responses. Each poll must have a minimum of two responses\n        and a maximum of 4 responses. This limitation focuses the kind of polls people will use the platform for.\n      ",
 	"d577e8ae-04d1-4631-b21d-1fde3337b2be": "https://cdn.rawgit.com/joshpitzalis/peerplus/5a7dd4981f2dbfe10649f1d6574e26943b555d08/tufte-css-gh-pages/images/luxury.png",
 	"c9d02931-4f32-4e50-9259-5f76fd00471c": "Overview",
-	"d1c2f734-1a3c-4912-88d7-f238471a15e7": "One of the most distinctive features of Tufte’s style is his extensive use of sidenotes. Sidenotes are like footnotes,\n      except they don’t force the reader to jump their eye to the bottom of the page, but instead display off to the side\n      in the margin. Perhaps you have noticed their use in this document already. You are very astute."
+	"d1c2f734-1a3c-4912-88d7-f238471a15e7": "One of the most distinctive features of Tufte’s style is his extensive use of sidenotes. Sidenotes are like footnotes,\n      except they don’t force the reader to jump their eye to the bottom of the page, but instead display off to the side\n      in the margin. Perhaps you have noticed their use in this document already. You are very astute.",
+	"b4576280-b173-4177-a7d7-79cbf013b250": "https://cdn.rawgit.com/joshpitzalis/peerplus/fe3a4a1070e4bd0b73856ffc246111619c46a0cb/tufte-css-gh-pages/images/Subtle_Devices%20Copy%202.png",
+	"3fcd96df-81f9-43d9-95c1-b88c5e520137": "img/rhino.png"
 }
