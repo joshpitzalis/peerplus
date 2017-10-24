@@ -12,7 +12,7 @@
 	"title": "Types of Polls",
 	"note2": "No text based responses since this is a polling app not a survey app. Text based responses can be introduced at a later stage. ",
 	"image2": [
-		"https://cdn.rawgit.com/joshpitzalis/peerplus/350c9bc61357db1fcb2220139a14a37cebb75e30/tufte-css-gh-pages/images/response%20types.png",
+		"https://cdn.rawgit.com/joshpitzalis/peerplus/670ac0045ccf105300fd4352d5e93ff67ee97840/tufte-css-gh-pages/images/createpoll.png",
 		"img/rhino.png",
 		"tps://cdn.rawgit.com/joshpitzalis/peerplus/02be28df3c36841904a9d2de08533be78775ccbc/tufte-css-gh-pages/images/wireframe.png"
 	],
@@ -46,7 +46,7 @@
 		"https://cdn.rawgit.com/joshpitzalis/peerplus/a7738e5b9d613bba114e980c8f53ade6d2ce9bb4/tufte-css-gh-pages/images/Leaderboard-Light%20Copy.png",
 		"https://cdn.rawgit.com/joshpitzalis/peerplus/03bebadd073b1ed0940d806f619791e7689a6e99/tufte-css-gh-pages/images/Quizes-Light%20Copy%202.png"
 	],
-	"8a32e635-3830-443c-8ce3-4a749b22087d": "https://cdn.rawgit.com/joshpitzalis/peerplus/ac3793b86cfa0906633766b23fe0b2a027b8e05f/tufte-css-gh-pages/images/dashboard.png",
+	"8a32e635-3830-443c-8ce3-4a749b22087d": "https://cdn.rawgit.com/joshpitzalis/peerplus/a730157274798779e6ca745e29630d5d28f5caab/tufte-css-gh-pages/images/create.png",
 	"671254d4-5b62-452c-8b72-cd66af96339f": " The questions can be text or image based, with singel or multiple responses. Each poll must have a minimum of two responses\n        and a maximum of 4 responses. This limitation focuses the kind of polls people will use the platform for.\n      ",
 	"d577e8ae-04d1-4631-b21d-1fde3337b2be": "https://cdn.rawgit.com/joshpitzalis/peerplus/5a7dd4981f2dbfe10649f1d6574e26943b555d08/tufte-css-gh-pages/images/luxury.png",
 	"c9d02931-4f32-4e50-9259-5f76fd00471c": "Overview",
