@@ -3,7 +3,7 @@
 		"The brief for this project is to create a web app that lets people collect quick, objective and anonymous feedback.\n        The app allows you to easily & intuitively create polls and share them select friends to aid decision making."
 	],
 	"image": [
-		"https://cdn.rawgit.com/joshpitzalis/peerplus/853d463a2a78ce80a52e84c37434bb1449ac48bb/tufte-css-gh-pages/images/flowchart.png",
+		"https://cdn.rawgit.com/joshpitzalis/peerplus/f1d0e2d60b2556beec956d6df9d37d01a951464a/tufte-css-gh-pages/images/flowchart.png",
 		"img/flowchart.png",
 		"img/flowchart.png",
 		"img/flowchart.png",
@@ -36,7 +36,11 @@
 	"21cf174a-457a-431b-85a7-c613c49bc290": "https://cdn.rawgit.com/joshpitzalis/peerplus/1c452de4fb82ca1774b8a47cbcd2ac40a1ec0f83/tufte-css-gh-pages/images/Game%20Over-Light.png",
 	"ca4486a9-5241-4507-9365-35120bb9392d": " If someone who was not invited to complete a poll gets a hold of teh poll link then trying to complete the poll will\n        redierect them to an error page taht encourages then to sign up and send out tehir own private polls.",
 	"125daa49-7322-4229-a9dc-f959420636af": "https://cdn.rawgit.com/joshpitzalis/peerplus/6290e379e4490a0690ac1a891fc22cd818acc027/tufte-css-gh-pages/images/sorry.png",
-	"eb8c2eba-2e8f-4a34-851d-83f318001f67": "Collecting responses is as simple as clicking on a poll in your dashboard. You get a clear % breakdown of how many\n        people clicked on what response. You can also see who you sent teh poll to and when teh poll ended, or will end if\n        ongoing. ",
+	"eb8c2eba-2e8f-4a34-851d-83f318001f67": [
+		"Collecting responses is as simple as clicking on a poll in your dashboard. You get a clear % breakdown of how many\n        people clicked on what response. You can also see who you sent teh poll to and when teh poll ended, or will end if\n        ongoing. ",
+		"Collecting responses is as simple as clicking on a poll in your dashboard. You get a clear % breakdown of how many\n        people clicked on what response. You can also see who you sent teh poll to and when teh poll ended, or will end if\n        ongoing. ",
+		"llecting responses is as simple as clicking on a poll in your dashboard. You get a clear % breakdown of how many\n        people clicked on what response. You can also see who you sent teh poll to and when teh poll ended, or will end if\n        ongoing. "
+	],
 	"ee490370-5ce5-46ab-8743-3841752bd890": [
 		"If this is the first poll you have created then teh next step will take you to a page where you can select people you\n        want to send the poll to. You will be given unique url for teh poll that you can manually give to people manually,\n        or you can enter email addresses for teh people you want to send to or you can import your contact from facebook\n        and add then select them. You must select a minimum of 10 people for a poll so that the responses stay anonymous.\n      ",
 		"The first group of people that you send a poll to gets saved as your circle of trust. Rather than having to select\n        all the same people again you can just send another poll to teh same circle.\n      ",
@@ -53,5 +57,7 @@
 	"d1c2f734-1a3c-4912-88d7-f238471a15e7": "One of the most distinctive features of Tufte’s style is his extensive use of sidenotes. Sidenotes are like footnotes,\n      except they don’t force the reader to jump their eye to the bottom of the page, but instead display off to the side\n      in the margin. Perhaps you have noticed their use in this document already. You are very astute.",
 	"b4576280-b173-4177-a7d7-79cbf013b250": "https://cdn.rawgit.com/joshpitzalis/peerplus/fe3a4a1070e4bd0b73856ffc246111619c46a0cb/tufte-css-gh-pages/images/Subtle_Devices%20Copy%202.png",
 	"3fcd96df-81f9-43d9-95c1-b88c5e520137": "img/rhino.png",
-	"bace64c8-10d1-4f06-abaa-5aa8c4a519d2": "https://cdn.rawgit.com/joshpitzalis/peerplus/408d8dfdc9f6a06fa5d4bc1230e013c0b02bd626/tufte-css-gh-pages/images/completes.png"
+	"bace64c8-10d1-4f06-abaa-5aa8c4a519d2": "https://cdn.rawgit.com/joshpitzalis/peerplus/408d8dfdc9f6a06fa5d4bc1230e013c0b02bd626/tufte-css-gh-pages/images/completes.png",
+	"3898f7c9-9354-4047-832e-aa97c871b522": "https://cdn.rawgit.com/joshpitzalis/peerplus/6fc59bfb16dc44471867abcc7c14ca6de6258d17/tufte-css-gh-pages/images/completeingflow.png",
+	"712a26bb-6098-4f79-a0c1-76cc814eb9ad": "https://cdn.rawgit.com/joshpitzalis/peerplus/0d986329e423bccf4c59423e6c9c759bf292c562/tufte-css-gh-pages/images/collecting%20flow.png"
 }
