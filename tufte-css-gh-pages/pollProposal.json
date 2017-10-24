@@ -12,7 +12,7 @@
 	"title": "Types of Polls",
 	"note2": "No text based responses since this is a polling app not a survey app. Text based responses can be introduced at a later stage. ",
 	"image2": [
-		"https://cdn.rawgit.com/joshpitzalis/peerplus/670ac0045ccf105300fd4352d5e93ff67ee97840/tufte-css-gh-pages/images/createpoll.png",
+		"https://cdn.rawgit.com/joshpitzalis/peerplus/3b59429407bdc40e27fa42c73c7d04f009bcfdd7/tufte-css-gh-pages/images/createpoll.png",
 		"img/rhino.png",
 		"tps://cdn.rawgit.com/joshpitzalis/peerplus/02be28df3c36841904a9d2de08533be78775ccbc/tufte-css-gh-pages/images/wireframe.png"
 	],
@@ -43,7 +43,7 @@
 		"You can create new circles, add or remove people form a circle or just send polls to people\n      "
 	],
 	"32c2111e-4c9e-477a-a1b0-e5988984abec": [
-		"https://cdn.rawgit.com/joshpitzalis/peerplus/a7738e5b9d613bba114e980c8f53ade6d2ce9bb4/tufte-css-gh-pages/images/Leaderboard-Light%20Copy.png",
+		"https://cdn.rawgit.com/joshpitzalis/peerplus/ace586fa77a02a471a45b4d60ef943584a7e2487/tufte-css-gh-pages/images/Artboard%204.png",
 		"https://cdn.rawgit.com/joshpitzalis/peerplus/03bebadd073b1ed0940d806f619791e7689a6e99/tufte-css-gh-pages/images/Quizes-Light%20Copy%202.png"
 	],
 	"8a32e635-3830-443c-8ce3-4a749b22087d": "https://cdn.rawgit.com/joshpitzalis/peerplus/a730157274798779e6ca745e29630d5d28f5caab/tufte-css-gh-pages/images/create.png",
