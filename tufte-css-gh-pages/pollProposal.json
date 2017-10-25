@@ -50,7 +50,7 @@
 		"https://cdn.rawgit.com/joshpitzalis/peerplus/ace586fa77a02a471a45b4d60ef943584a7e2487/tufte-css-gh-pages/images/Artboard%204.png",
 		"https://cdn.rawgit.com/joshpitzalis/peerplus/03bebadd073b1ed0940d806f619791e7689a6e99/tufte-css-gh-pages/images/Quizes-Light%20Copy%202.png"
 	],
-	"8a32e635-3830-443c-8ce3-4a749b22087d": "https://cdn.rawgit.com/joshpitzalis/peerplus/a730157274798779e6ca745e29630d5d28f5caab/tufte-css-gh-pages/images/create.png",
+	"8a32e635-3830-443c-8ce3-4a749b22087d": "https://cdn.rawgit.com/joshpitzalis/peerplus/09c44bd349ce73cff52da467ed33521c1d1bf9d4/tufte-css-gh-pages/images/create%20a%20poll.png",
 	"671254d4-5b62-452c-8b72-cd66af96339f": " The questions can be text or image based, with singel or multiple responses. Each poll must have a minimum of two responses\n        and a maximum of 4 responses. This limitation focuses the kind of polls people will use the platform for.\n      ",
 	"d577e8ae-04d1-4631-b21d-1fde3337b2be": "https://cdn.rawgit.com/joshpitzalis/peerplus/5a7dd4981f2dbfe10649f1d6574e26943b555d08/tufte-css-gh-pages/images/luxury.png",
 	"c9d02931-4f32-4e50-9259-5f76fd00471c": "Overview",
@@ -62,5 +62,6 @@
 	"712a26bb-6098-4f79-a0c1-76cc814eb9ad": "https://cdn.rawgit.com/joshpitzalis/peerplus/0d986329e423bccf4c59423e6c9c759bf292c562/tufte-css-gh-pages/images/collecting%20flow.png",
 	"1e80f886-0715-456a-90dc-666a2f4a19e2": "https://cdn.rawgit.com/joshpitzalis/peerplus/7bd87883cff93ad0fda052366d21fe8e66943f1a/tufte-css-gh-pages/images/Notifications-Light.png",
 	"77d36fd4-75df-44d7-b25f-b1e04328fe1c": "https://cdn.rawgit.com/joshpitzalis/peerplus/d4b509c13ec99f6fd4c78d098c5434808cacbd46/tufte-css-gh-pages/images/SettingLight.png",
-	"6c485db2-e458-4c7c-a6da-d21e628af849": "https://cdn.rawgit.com/joshpitzalis/peerplus/afd78dd17eb35a39d41fba5ff97aca5d72182db8/tufte-css-gh-pages/images/Artboard%205.png"
+	"6c485db2-e458-4c7c-a6da-d21e628af849": "https://cdn.rawgit.com/joshpitzalis/peerplus/afd78dd17eb35a39d41fba5ff97aca5d72182db8/tufte-css-gh-pages/images/Artboard%205.png",
+	"26c6c302-b254-4520-aadd-2bedfb7b5d36": "img/rhino.png"
 }
