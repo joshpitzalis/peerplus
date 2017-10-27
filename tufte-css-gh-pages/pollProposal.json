@@ -80,14 +80,14 @@
 	"bed205f0-fb1e-4abd-a9dd-ab389cecbea0": "Onboarding",
 	"e6ef777d-3004-43e5-8d29-1ef1ba76ced8": "A strip of 10 action icons is presented to a user when  they sign up. Clicking on any icon takes them to a page where the required action to complete the icon is listed.  Gamifying the onboarding process like this ensures that users understand every aspect of the system. New icons and actions can then be added to this section to re-engage or promote new features in the future.",
 	"d73c7563-fac3-46dc-a658-11af17b76890": "Cost & Timeline",
-	"3ee446da-89cd-44e1-8151-d63b2fd7c834": "The base configuration for this application includes email and facebook logins, the ability to create a poll and generate a unique url for the poll, the ability to complete a poll and the ability to collect responses, and the gamified onboarding module. The base configuration costs $3000 and will take 6 weeks to complete. The base configurations does not include any kind of notifications, the ability to send polls by email, the ability to import friends from or send poll through other platforms (like facebook), a landing page or any addition 3'rd party logins.",
+	"3ee446da-89cd-44e1-8151-d63b2fd7c834": "The base configuration for this application includes email and facebook logins, the ability to create a poll and generate a unique url for the poll, the ability to complete a poll and the ability to collect responses, and the gamified onboarding module. The base configuration costs $3000 and will take 6 weeks to complete. The base configurations does not include any kind of notifications, the ability to send polls by email, the ability to import friends from or send poll through other platforms (like facebook), a landing page or any addition 3'rd party logins. Each additional features will take between a week and 10 days to implement.",
 	"60d10516-ef10-446b-80c1-786a6220243e": "Add-ons",
 	"12657892-c1b8-480e-a491-516001b8317d": "Remove-offs",
 	"9b20bf16-31ff-4e08-a97d-af536962057a": "If you would like to reduce the cost of the base configuration the following features and optional.",
 	"d8d91f7c-1eaf-4158-bbfc-25d00bafbfe5": "Next Steps",
 	"3bcf54f5-fb21-4805-a9da-dc672f94d633": "The 6 week time-frame above assumes that there an no design changes to be made the proposed designs.  If you would like to make design changes, upon hiring me to complete the project you are welcome to make two rounds of changes, after which design changes will be billed separately at an hourly rate of $30/hour.",
-	"12201af4-d507-47b8-8339-e1bacff2b4d6": "This is an ImageQuilt surveying Chinese calligraphy, placed in a full-width figure to accomodate its girth:",
-	"5c647cc6-228a-45bc-8db5-c5c50eb2697f": "Here is an ImageQuilt of 47 animal sounds over and over, in a figure constrained to the main text region. This quilt\n        has ragged edges, but the image itself is of course still rectangular.",
+	"12201af4-d507-47b8-8339-e1bacff2b4d6": "For me to begin work, I need you to decide on what features you would like me to include in the project. ",
+	"5c647cc6-228a-45bc-8db5-c5c50eb2697f": "Please take as long as you need to think through this. If anything was unclear, please email me and I will respond as soon as possible. I hope you enjoyed the proposal and thank you for giving me the opportunity to work on this.",
 	"fe2b5820-24cd-4bdb-a2be-0fd1fe51ae43": "Josh",
 	"c4192f6a-0eb2-4565-b818-8b8ea90e514c": "https://cdn.rawgit.com/joshpitzalis/peerplus/fb31704edd85fd6addc5add10d5a2351b5bc5b6a/tufte-css-gh-pages/images/download.png"
 }
