@@ -12,7 +12,7 @@
 	"title": "Types of Polls",
 	"note2": "No text based responses since this is a polling app not a survey app. Text based responses can be introduced at a later stage. ",
 	"image2": [
-		"https://cdn.rawgit.com/joshpitzalis/peerplus/3b59429407bdc40e27fa42c73c7d04f009bcfdd7/tufte-css-gh-pages/images/createpoll.png",
+		"https://cdn.rawgit.com/joshpitzalis/peerplus/74ecdb99cf2d37fd85be0eaeb5b7620ba191100b/tufte-css-gh-pages/images/Artboard%203.png",
 		"img/rhino.png",
 		"tps://cdn.rawgit.com/joshpitzalis/peerplus/02be28df3c36841904a9d2de08533be78775ccbc/tufte-css-gh-pages/images/wireframe.png"
 	],
@@ -24,7 +24,7 @@
 		"No text based responses because that would change teh natire of teh application from a poll to a survey. Text based\n        responses can be added in the future if we change teh way responses are collected and displayed.\n      ",
 		" As a bonus, this excerpt regarding the use of headings provides an example of block quotes. In Tufte CSS they are just\n        lightly styled, semantically correct HTML using for an example in print."
 	],
-	"image3 ": "https://cdn.rawgit.com/joshpitzalis/peerplus/4b2d431631511dba0f4d792655134e1ef254dcaf/tufte-css-gh-pages/images/Group%2041.png",
+	"image3 ": "https://cdn.rawgit.com/joshpitzalis/peerplus/4ba25588c4ff48679ba046ea66854d93485b5d49/tufte-css-gh-pages/images/Group%2065.png",
 	"paragraph5": " Collecting responses is as simple as clicking on a poll in your dashboard. You get a clear % breakdown of how many\n        people clicked on what response. You can also see who you sent teh poll to and when teh poll ended, or will end if\n        ongoing. ",
 	"bd3654f8-4d88-4b98-8860-57d4caa93aa9": "https://cdn.rawgit.com/joshpitzalis/peerplus/71bfd836b9884ee575dbfe23af5244236642e93b/tufte-css-gh-pages/images/Screen%20Shot%202017-10-22%20at%2016.40.59.png",
 	"fd1b81ae-0d1c-4540-9956-3be0ca776887": "Creating A Poll",
@@ -57,11 +57,11 @@
 	"d1c2f734-1a3c-4912-88d7-f238471a15e7": "One of the most distinctive features of Tufte’s style is his extensive use of sidenotes. Sidenotes are like footnotes,\n      except they don’t force the reader to jump their eye to the bottom of the page, but instead display off to the side\n      in the margin. Perhaps you have noticed their use in this document already. You are very astute.",
 	"b4576280-b173-4177-a7d7-79cbf013b250": "https://cdn.rawgit.com/joshpitzalis/peerplus/9dcbb14ca9a0009e9d5f9305858ea0a018158357/tufte-css-gh-pages/images/Group%2027.png",
 	"3fcd96df-81f9-43d9-95c1-b88c5e520137": "img/rhino.png",
-	"bace64c8-10d1-4f06-abaa-5aa8c4a519d2": "https://cdn.rawgit.com/joshpitzalis/peerplus/dca9f8d4b212633b96b01d468a82f8e0ca1d2f0b/tufte-css-gh-pages/images/Group%2027.png",
+	"bace64c8-10d1-4f06-abaa-5aa8c4a519d2": "https://cdn.rawgit.com/joshpitzalis/peerplus/3f0c7bede9061b26d5d1be6c294c1a84f2144c82/tufte-css-gh-pages/images/Group%2027%20Copy.png",
 	"3898f7c9-9354-4047-832e-aa97c871b522": "https://cdn.rawgit.com/joshpitzalis/peerplus/751522091cf004c6bc33c686a9046e3e1ff0744c/tufte-css-gh-pages/images/completeAPoll.png",
 	"712a26bb-6098-4f79-a0c1-76cc814eb9ad": "https://cdn.rawgit.com/joshpitzalis/peerplus/0d986329e423bccf4c59423e6c9c759bf292c562/tufte-css-gh-pages/images/collecting%20flow.png",
 	"1e80f886-0715-456a-90dc-666a2f4a19e2": "https://cdn.rawgit.com/joshpitzalis/peerplus/f83fccc9ce40ecd31f3e6375aca478e2c247e415/tufte-css-gh-pages/images/notifications.png",
 	"77d36fd4-75df-44d7-b25f-b1e04328fe1c": "https://cdn.rawgit.com/joshpitzalis/peerplus/d4b509c13ec99f6fd4c78d098c5434808cacbd46/tufte-css-gh-pages/images/SettingLight.png",
-	"6c485db2-e458-4c7c-a6da-d21e628af849": "https://cdn.rawgit.com/joshpitzalis/peerplus/01d45b592572599ba0f312b5918ce4ca873b3eb6/tufte-css-gh-pages/images/gamification.png",
-	"26c6c302-b254-4520-aadd-2bedfb7b5d36": "https://cdn.rawgit.com/joshpitzalis/peerplus/0e1d166f157a7988271f70713f8c46bee9d237ab/tufte-css-gh-pages/images/promo.png"
+	"6c485db2-e458-4c7c-a6da-d21e628af849": "https://cdn.rawgit.com/joshpitzalis/peerplus/e7308b49509d893cbf474c40527bd6247ea47512/tufte-css-gh-pages/images/Group%2066.png",
+	"26c6c302-b254-4520-aadd-2bedfb7b5d36": "https://cdn.rawgit.com/joshpitzalis/peerplus/f32e25d0eedb4049e76dd098f8ce2deb007704d4/tufte-css-gh-pages/images/Group%2062.png"
 }
