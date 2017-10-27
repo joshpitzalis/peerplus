@@ -21,7 +21,7 @@
 	},
 	"paragraph3": "Now you just have to use the provided CSS rules, and the Tufte CSS conventions described in this document. For best\n        results, View Source and Inspect Element frequently.",
 	"paragraph4": [
-		"No text based responses because that would change teh natire of teh application from a poll to a survey. Text based\n        responses can be added in the future if we change teh way responses are collected and displayed.\n      ",
+		"Creating a Poll lets you (A) add a poll question and context or a description, (B) chose between image or text based responses, (C) choose between single of multiple choice responses, (D) set a deadline between 24 and 96 hours, and (E) send recipients the results of a poll if they request it after completing the poll. Submitting the Poll tehn takes you to a page where you set the response options for the type of poll you created.",
 		" As a bonus, this excerpt regarding the use of headings provides an example of block quotes. In Tufte CSS they are just\n        lightly styled, semantically correct HTML using for an example in print."
 	],
 	"image3 ": "https://cdn.rawgit.com/joshpitzalis/peerplus/195dcaa329b254f4373421b0f0ec319a007defc9/tufte-css-gh-pages/images/Artboard%202.png",
@@ -42,7 +42,7 @@
 		"llecting responses is as simple as clicking on a poll in your dashboard. You get a clear % breakdown of how many\n        people clicked on what response. You can also see who you sent teh poll to and when teh poll ended, or will end if\n        ongoing. "
 	],
 	"ee490370-5ce5-46ab-8743-3841752bd890": [
-		"If this is the first poll you have created then teh next step will take you to a page where you can select people you\n        want to send the poll to. You will be given unique url for teh poll that you can manually give to people manually,\n        or you can enter email addresses for teh people you want to send to or you can import your contact from facebook\n        and add then select them. You must select a minimum of 10 people for a poll so that the responses stay anonymous.\n      ",
+		"Once you create a poll and set the response options you can make the poll public or send it to a preselected group of friends. If you don't have any groups you can create one from friends previously imported from facebook. If you have not imported any friends you are taken to a page where you can import friends or add email addresses to send the poll to. You must select a minimum of 10 people for a poll so that the responses stay anonymous. Once you have selected recipients or made the poll public you are taken to a completion page with a  unique url for that poll. If the poll is private do not share this url. \n",
 		"The first group of people that you send a poll to gets saved as your circle of trust. Rather than having to select\n        all the same people again you can just send another poll to teh same circle.\n      ",
 		"You can create new circles, add or remove people form a circle or just send polls to people\n      "
 	],
@@ -51,7 +51,7 @@
 		"https://cdn.rawgit.com/joshpitzalis/peerplus/03bebadd073b1ed0940d806f619791e7689a6e99/tufte-css-gh-pages/images/Quizes-Light%20Copy%202.png"
 	],
 	"8a32e635-3830-443c-8ce3-4a749b22087d": "https://cdn.rawgit.com/joshpitzalis/peerplus/ce380e82088156cac0beb150605cf3b27dab30f5/tufte-css-gh-pages/images/create%20a%20poll.png",
-	"671254d4-5b62-452c-8b72-cd66af96339f": " The questions can be text or image based, with singel or multiple responses. Each poll must have a minimum of two responses\n        and a maximum of 4 responses. This limitation focuses the kind of polls people will use the platform for.\n      ",
+	"671254d4-5b62-452c-8b72-cd66af96339f": "Poll questions can be text or image based and either can have single or multiple choice responses. A poll must have a minimum of two responses and a maximum of four responses. The brief was to design a fun polling app for teenagers and young adults. Limiting a poll to four responses deters people from using the platform for more sombre, research centric use cases.",
 	"d577e8ae-04d1-4631-b21d-1fde3337b2be": "https://cdn.rawgit.com/joshpitzalis/peerplus/9867788ea79220589e1b1f5fc704734ae037824f/tufte-css-gh-pages/images/palette2.62c35320-1.png",
 	"c9d02931-4f32-4e50-9259-5f76fd00471c": "Overview",
 	"d1c2f734-1a3c-4912-88d7-f238471a15e7": "One of the most distinctive features of Tufte’s style is his extensive use of sidenotes. Sidenotes are like footnotes,\n      except they don’t force the reader to jump their eye to the bottom of the page, but instead display off to the side\n      in the margin. Perhaps you have noticed their use in this document already. You are very astute.",
@@ -68,5 +68,6 @@
 	"189cd6d9-27e1-4edd-94a2-1dc8dfa03946": "https://cdn.rawgit.com/joshpitzalis/peerplus/4da7d31314a2170920b7fcefd08519c66efef88c/tufte-css-gh-pages/images/full.png",
 	"b65bb1f8-5e3d-41bc-b942-ef03a23610c0": "https://cdn.rawgit.com/joshpitzalis/peerplus/382fb2be28b671403881b6e995905552ac362035/tufte-css-gh-pages/images/Screen%20Shot%202017-10-27%20at%2014.35.58.png",
 	"7d0b911f-b969-4f72-8bd0-0bda45ea1d9a": "https://cdn.rawgit.com/joshpitzalis/peerplus/fe49e2b245131ea74f9929fbbe7a0cfff9d42322/tufte-css-gh-pages/images/Screen%20Shot%202017-10-27%20at%2014.35.48.png",
-	"4bd9088c-d0ad-47f8-9031-a4ca90daa136": "The brief for this project is to create a web app that lets people collect quick, objective and anonymous feedback. \n\nThe app allows you to easily & intuitively create polls and then share them with select friends to better aid decision making. "
+	"4bd9088c-d0ad-47f8-9031-a4ca90daa136": "The brief for this project is to create a web app that lets people collect quick, objective and anonymous feedback. \n\nThe app allows you to easily & intuitively create polls and then share them with select friends to better aid decision making. ",
+	"073ec88a-1c93-4ff5-8177-5d22997d902b": "If you have never used the app before creating a poll takes 5 steps, outlined below. "
 }
