@@ -21,7 +21,7 @@
 	},
 	"paragraph3": "Now you just have to use the provided CSS rules, and the Tufte CSS conventions described in this document. For best\n        results, View Source and Inspect Element frequently.",
 	"paragraph4": [
-		"The Poll creation page lets you add a poll question  and some context or a description (section A in the image above), chose between image or text based responses (B) ,  choose between single of multiple choice responses (C), set a deadline between 24 and 96 hours (D), and send recipients the results of a poll (E) if they request the results after completing the poll. Submitting the Poll then takes you to a new page where you set each response option for the type of poll you created.",
+		"The Poll creation page lets you add a poll question  and some context or a description (section A in the image above), chose between image or text based responses (B),  choose between single of multiple choice responses (C), set a deadline between 24 and 96 hours (D), and send recipients the results of a poll (E) if they request the results after completing the poll. Submitting the Poll then takes you to a new page where you set each response option for the type of poll you created.",
 		" As a bonus, this excerpt regarding the use of headings provides an example of block quotes. In Tufte CSS they are just\n        lightly styled, semantically correct HTML using for an example in print."
 	],
 	"image3 ": "https://cdn.rawgit.com/joshpitzalis/peerplus/195dcaa329b254f4373421b0f0ec319a007defc9/tufte-css-gh-pages/images/Artboard%202.png",
